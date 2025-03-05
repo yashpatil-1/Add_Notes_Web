@@ -24,9 +24,6 @@
 - Save notes locally (persistent storage)
 - Delete notes when needed
 
-## 📈 Demo
-*(Include a screenshot or GIF showcasing the app in action)*
-
 ## 🔧 Contributing
 If you'd like to contribute, feel free to **fork** the repository and submit a **pull request**.
 
